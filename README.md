@@ -1,1 +1,3 @@
-## Hi there 👋
+## Oi, meu nome é Felipe!
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipehellmann&langs_count=4&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=felipehellmann&langs_count=4&theme=vision-friendly-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=felipehellmann&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=felipehellmann&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
