@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Snake animation][felipehellmann](https://github.com/felipehellmann/)
+![Snake animation]felipehellmann
