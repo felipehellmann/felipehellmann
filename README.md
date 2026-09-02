@@ -5,7 +5,7 @@
 ### Linguagens e Ferramentas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,c,cpp,godot" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,c,cpp,godot,obsidian" />
   </a>
 </p>
 
