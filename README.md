@@ -11,7 +11,7 @@
 
 #### Sobre mim:
 - Graduando em Sistemas de Informação.
-- Atualmente tenho conhecimento de Python e C/C++.
+- Atualmente estudando Python e C/C++.
 - Utilizando IA como ferramenta de produtividade para otimizar lógica e fluxos de trabalho.
 - Comprometido com o trabalho em equipe e com uma comunicação clara e centrada nas pessoas.
 - Grandes produtos são construídos através de colaboração, comunicação e aprendizado contínuo.
